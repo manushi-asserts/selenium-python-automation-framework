@@ -108,20 +108,6 @@ This framework integrates with **GitHub Actions** to automatically execute tests
 
 ---
 
-## 📌 Sample Application
-
-Tests are written against publicly available demo applications for demonstration and learning purposes.
-
----
-
-## 📈 Future Enhancements
-
-* Docker execution support
-* Allure reporting integration
-* Cloud execution (BrowserStack / Selenium Grid)
-
----
-
 ## 👩‍💻 Author
 
 **Manushi**
